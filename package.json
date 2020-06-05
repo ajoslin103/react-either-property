@@ -1,0 +1,26 @@
+{
+  "name": "react-either-property",
+  "version": "1.0.0",
+  "description": "Helps to verify React component props where either one or the other of two props are expected (or required.)",
+  "main": "EitherProperty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajoslin103/react-either-property.git"
+  },
+  "keywords": [
+    "react",
+    "proptypes",
+    "validator",
+    "component",
+    "property"
+  ],
+  "author": "allen joslin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajoslin103/react-either-property/issues"
+  },
+  "homepage": "https://github.com/ajoslin103/react-either-property#readme"
+}
