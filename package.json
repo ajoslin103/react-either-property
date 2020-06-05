@@ -1,6 +1,6 @@
 {
   "name": "react-either-property",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helps to verify React component props where either one or the other of two props are expected (or required.)",
   "main": "EitherProperty.js",
   "scripts": {
