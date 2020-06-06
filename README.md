@@ -1,6 +1,10 @@
 ### purpose
 
-This utility was created to help me to verify my React component props in the situation where either one or the other of two props are expected (or required.)
+This utility was created to help verify my React component props in the situations where either one or the other of two props are expected (or required.)
+
+## installation
+
+`npm install react-either-property`
 
 ### example
 
@@ -25,11 +29,7 @@ ComponentSeven.propTypes = {
 };
 ```
 
-Note: this code uses the React Props' systems custom validator -- the supplied props names are ignored, Reat behavior when those names match passed props is undefined
-
-## installation
-
-npm install react-either-property
+This code uses the React Props' systems custom validators -- Note: the supplied props names are ignored, the behavior when those names match actual passed props is knknown and undefined
 
 ## testing
 
